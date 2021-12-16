@@ -1,0 +1,9 @@
+{
+  "name": "bendjs",
+  "version": "1.0.0",
+  "source": "src/index.js",
+  "main": "dist/main.js",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
